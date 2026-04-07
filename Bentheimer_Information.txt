@@ -1,0 +1,42 @@
+Sample: Bentheimer
+
+Same Physical Area with 4 different voxel resolution
+
+Details:
+
+Data 1: Benth_4.54.raw
+
+Voxel Resolution: 4.54 micron
+Voxel Dimensions: 575 x 575 x 575
+
+Data 2: Benth_6.28.raw
+
+Voxel Resolution: 6.28 micron
+Voxel Dimensions: 415 x 415 x 415
+
+Data 3: Benth_8.33.raw
+
+Voxel Resolution: 8.33 micron
+Voxel Dimensions: 313 x 313 x 313
+
+Data 4: Benth_10.23.raw
+
+Voxel Resolution: 10.23 micron
+Voxel Dimensions: 255 x 255 x 255
+
+
+Note:
+
+The .raw file can be opened from open source Fiji software.
+Steps:-
+
+1. Click on File - Import - Raw
+2. Click on the .raw data
+3. Fill the details- Below is an example of 575 x 575 x 575 - Benth_4.54.raw
+   Image type - 8bit
+   Width      - 575
+   Height     - 575
+   Offset to First Image - 0
+   Number of Images      - 575
+   Gap between images    - 0
+   Tick on Little-endian byte order
